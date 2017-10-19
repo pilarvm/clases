@@ -1,0 +1,17 @@
+.orange {
+  background-color: orange;
+  padding: left;
+   height: 100px;
+   width: auto;
+
+   box-sizing: border-box;
+}
+
+.black {
+background-color: darkslategray;
+
+height: 100px;
+width: auto;
+
+box-sizing: border-box;
+}

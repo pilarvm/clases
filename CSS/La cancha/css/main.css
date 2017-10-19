@@ -1,0 +1,13 @@
+div {
+  border: 5px blue solid;
+  display: inline-block;
+  width: 760px;
+  height: 380px;
+  margin: 10px;
+  box-sizing: border-box;
+}
+
+p {
+  font-size: 50px;
+  text-align: center;
+}

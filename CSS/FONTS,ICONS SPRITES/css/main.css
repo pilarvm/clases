@@ -1,0 +1,24 @@
+h1{
+  color: green;
+  font-family: 'Manuale',serif;
+  font-size: 30px;
+
+}
+
+p{
+  font-family: 'Roboto', sans-serif;
+}
+
+.icon{
+  color: orange;
+  margin-right: 15px;
+  font-size:  40px;
+}
+
+
+.iconsprite{
+  background: url("../assets/images/css_sprites.png")-10px -10px;
+  display: inline-block;
+  width: 70px;
+  height: 400px;
+}
