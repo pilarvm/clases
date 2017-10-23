@@ -1,13 +1,23 @@
-div {
-  border: 5px blue solid;
+.soccer_field {
+  background-color: #8cb27c;
   display: inline-block;
   width: 760px;
   height: 380px;
-  margin: 10px;
-  box-sizing: border-box;
 }
 
-p {
-  font-size: 50px;
-  text-align: center;
+.white_square{
+  border: 2px solid white;
+  position: relative;
+  padding: 0 0 0 0;
+  left: 10px;
+  width: 732px;
+  height: 350px;
+}
+.square{
+  border: 2px solid red;
+  top: 15px;
+  position: flo;
+  width: 84px;
+  height: 151px;
+  display: inline-block;
 }
